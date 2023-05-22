@@ -49,40 +49,40 @@ img {
 #face2 {
   width: 400px;
 }
-.robotface1 .face2 {
+.robotface2 .face2 {
   position: relative;
 }
 
 .features2 #mouth1 {
   position: absolute;
-  bottom: 250px;
-  left: 100px;
+  bottom: 70px;
+  left: 95px;
   width: 200px;
 }
 
 .features2 #eyes2 {
   position: absolute;
-  bottom: 400px;
+  bottom: 200px;
   left: 100px;
   width: 200px;
 }
 
 .features2 #nose2 {
   position: absolute;
-  bottom: 325px;
-  left: 165px;
+  bottom: 150px;
+  left: 160px;
   width: 80px;
 }
 
 .features2 #ears2 {
   position: absolute;
-  bottom: 375px;
+  bottom: 175px;
   width: 400px;
 }
 
 .features2 #hair2 {
   position: absolute;
-  bottom: 325px;
-  left: 60px;
+  bottom: 170px;
+  left: 50px;
   width: 300px;
 }
